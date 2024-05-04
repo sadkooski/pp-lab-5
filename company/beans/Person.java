@@ -1,4 +1,5 @@
 package company.beans;
+import company.exceptions.InvalidAgeException;
 
 public class Person {
     private String name;
